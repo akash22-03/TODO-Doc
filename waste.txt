@@ -1,0 +1,25 @@
+#extra_javascript:
+  # - ./docs/swagger-initializer.js
+  # - ./docs/swagger-ui-bundle.js
+  # - ./docs/swagger-ui-bundle.js.maps
+  # - ./docs/swagger-ui-es-bundle-core.js
+  # - ./docs/swagger-ui-es-bundle-core.js.map
+  # - ./docs/swagger-ui-es-bundle-core.js
+  # - ./docs/swagger-ui-es-bundle-core.js.map
+  # - ./docs/swagger-ui-bundle.js
+  # - ./docs/swagger-ui-bundle.js.map
+  # - ./docs/swagger-ui-standalone-preset.js
+  # - ./docs/swagger-ui-standalone-preset.js.map
+  # - ./docs/swagger-ui.js
+  # - ./docs/swagger-ui.js.map
+
+#extra_css:
+  # - ./docs/index.css
+  # - ./docs/swagger-ui.css
+  # - ./docs/swagger-ui.css.map
+
+
+
+
+
+    
