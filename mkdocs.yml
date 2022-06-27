@@ -2,10 +2,12 @@ site_name: My Docs
 
 nav:
   - Home: index.md
-  - Newtest: testnew.md
+  - SwaggerUiPlugin: suip.md
+  - RenderSwaggerPlugin: rsp.md
 
 
 plugins:
   - render_swagger
+  - swagger-ui-tag
 
 
